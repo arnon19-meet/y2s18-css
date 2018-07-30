@@ -1,0 +1,8 @@
+body {
+background-color:#3F3F37;
+color: #D6D6B1;
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #D6D6B1;
+    ; 
+}
+}
