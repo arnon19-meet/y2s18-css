@@ -1,8 +1,41 @@
 body {
 background-color:#3F3F37;
 color: #D6D6B1;
-::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
-    color: #D6D6B1;
-    ; 
 }
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+color: #D6D6B1;
+}
+.input {background-color:#73736D;}
+.input{color:#E4E4CD ;}
+a {color: #93A8AC;}
+.good {
+	background-color: #006600;
+}
+.bad {
+	background-color: #cc0000;
+}
+.bad {
+font-family: Comic Sans MS
+}
+.good {font-family: "Times New Roman", Times, serif;}
+input[name=birthday], select {
+    width: 3%;
+    padding: 5px 5px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.sidebar {background-color: #C6C5B9;
+width: 30px;
+height: 60px;
+}
+.title { 
+height: 60px;
+width:100%;
+
+
+
 }
